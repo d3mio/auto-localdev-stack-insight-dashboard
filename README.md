@@ -37,10 +37,10 @@ Ensure you have the following installed on your system:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/localdev-stack-insight.git
+    git clone https://github.com/d3mio/auto-localdev-stack-insight-dashboard.git
     cd localdev-stack-insight
     ```
-    *(Note: Replace `your-username` with the actual GitHub username/organization once available.)*
+    *(Note: Replace `d3mio` with the actual GitHub username/organization once available.)*
 
 2.  **Install dependencies:**
     ```bash
